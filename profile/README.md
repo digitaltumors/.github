@@ -1,4 +1,4 @@
-## Welcome to ARPA_H Dynamic Digital Tumors for Precision Oncology
+## Welcome to ARPHA-H ADAPT Center for Dynamic Digital Tumors for Precision Oncology
 
 
 
